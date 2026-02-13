@@ -3,13 +3,14 @@ title: "Eric M Greeff"
 toc: true
 sidebar: true
 ---
+# Eric M Greeff
 
-# Eric M Greeff 
-[greeffer.com/moster](https://greeffer.com)  |  [github](https://github.com/modster) [email](mailto:emgreeff@greeffer.com)  [linkedin](https://linkedin.com) 
 
-<!-- [X](x.com/goodgreeff) 📞(403) 870-3606 [facebook](https://facebook.com/mikegreeff) -->
+## Summary and Objective Statement
+Experienced construction professional with a strong background in carpentry, truss design, and project management. Proven ability to lead teams, manage resources, and deliver high-quality results on time and within budget. Seeking a challenging position in the construction industry where I can utilize my skills and experience to contribute to the success of the organization.
 
 ---
+
 ## Door Shop Associate
 *Star Building Materials, Calgary Alberta*
 ### Core Responsibilities
