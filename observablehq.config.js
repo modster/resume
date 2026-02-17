@@ -20,11 +20,11 @@ export default {
   header: "Eric M Greeff", // what to show in the header (HTML)
   footer: "Built with by [@modster](https://github.com/modster) using [Observablehq](https://observablehq.com/) and hosted by [GitHub Pages](https://pages.github.com/). &copy; 2024 Eric M. Greeff. All rights reserved.", // what to show in the footer (HTML)
   sidebar: true, // whether to show the sidebar
-  toc: false, // whether to show the table of contents
+  toc: true, // whether to show the table of contents
   pager: false, // whether to show previous & next links in the footer
   output: "dist", // path to the output root for build
   search: true, // activate search
-  linkify: true, // convert URLs in Markdown to links
+  linkify: false, // convert URLs in Markdown to links
   typographer: true, // smart quotes and other typographic improvements
   // preserveExtension: false, // drop .html from URLs
   // preserveIndex: false, // drop /index from URLs
