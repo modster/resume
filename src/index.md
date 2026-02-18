@@ -1,19 +1,17 @@
 ---
-title: "Eric M Greeff"
+title: "Resume"
 toc: true
 sidebar: true
 ---
 
-# Eric M Greeff
-## Professional Summary
+# Professional Summary
 
-Experienced construction professional with a strong background in carpentry, truss design, and project management. Proven ability to lead teams, manage resources, and deliver high-quality results on time and within budget. Seeking a challenging position in the construction industry where I can utilize my skills and experience to contribute to the success of the organization.
+Experienced construction professional with a strong background in carpentry, truss design, and project management. Proven ability to lead teams, manage resources, and deliver high-quality results on time and within budget. Seeking a challenging position in the construction industry where I can utilize my skills and experience to contribute to the success of the organization.  
 
-## Experience 
+---
 
 ## Door Shop Associate
 *Star Building Materials, Calgary Alberta*
-
 ### Core Responsibilities
 - **Fabrication & Assembly**: Cutting, shaping, and assembling doors, frames, and trim in a shop environment.
 - **Hardware Installation:** Installing hinges, locks, handles, closers, and other hardware to specifications.
@@ -21,6 +19,8 @@ Experienced construction professional with a strong background in carpentry, tru
 - **Maintenance & Repair:** Troubleshooting and repairing existing doors, including automatic or overhead systems.
 - **Customer Service:** Assisting customers, providing product advice, and maintaining a professional demeanor.
 - **Safety & Cleanliness:** Adhering to safety protocols, operating machinery safely, and maintaining a clean work area.
+
+---
 
 ## Finishing Carpenter/Insulator
 *Intercontinental Truck Body, Coaldale Alberta*
@@ -39,6 +39,8 @@ Experienced construction professional with a strong background in carpentry, tru
 - Optimize designs to minimize material and labor costs while ensuring structural integrity.
 - Produce detailed design drawings, takeoffs, and production documents.
 
+---
+
 ## Foreman
 *Startek Enterprises, Vulcan Alberta* 
 ### Core Responsibilities
@@ -48,6 +50,8 @@ Experienced construction professional with a strong background in carpentry, tru
 - **Quality Control:** Inspect completed work to ensure it meets quality standards, specifications, and project plans.
 - **Resource Management:** Requisition materials, supplies, and equipment, ensuring tools are maintained and available.
 - **Personnel Management:** Hire, train, mentor, and, when necessary, discipline crew members.
+
+---
 
 ## Lead Hand Carpenter 
 *Nascor Trusses*
@@ -63,3 +67,46 @@ Experienced construction professional with a strong background in carpentry, tru
 ## References
 *Available Upon Request*
 
+
+<style>
+
+.hero {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  font-family: var(--sans-serif);
+  margin: 4rem 0 8rem;
+  text-wrap: balance;
+  text-align: center;
+}
+
+.hero h1 {
+  margin: 1rem 0;
+  padding: 1rem 0;
+  max-width: none;
+  font-size: 14vw;
+  font-weight: 900;
+  line-height: 1;
+  background: linear-gradient(30deg, var(--theme-foreground-focus), currentColor);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+}
+
+.hero h2 {
+  margin: 0;
+  max-width: 34em;
+  font-size: 20px;
+  font-style: initial;
+  font-weight: 500;
+  line-height: 1.5;
+  color: var(--theme-foreground-muted);
+}
+
+@media (min-width: 640px) {
+  .hero h1 {
+    font-size: 90px;
+  }
+}
+
+</style>
