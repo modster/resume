@@ -1,6 +1,6 @@
 // See https://observablehq.com/framework/config for documentation.
 export default {
-  title: "Eric Greeff",
+  title: "Resume",
   // Pages will be listed in alphabetical order. Listing pages explicitly
   pages: [
     {
